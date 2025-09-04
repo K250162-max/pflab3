@@ -6,9 +6,9 @@
 _Italic_
 <br/>
 Unordered list
--list 1
--list 2
--list 3
+- list 1
+- list 2
+- list 3
 <br/>
 Ordered list
 1. Pf-lab 1
